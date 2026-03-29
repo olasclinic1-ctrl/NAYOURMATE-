@@ -1,0 +1,8 @@
+{
+  "name": "NaYourMate",
+  "description": "A modern, accessible social platform with high-quality AI video interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
